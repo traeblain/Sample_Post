@@ -4,7 +4,7 @@
 
 We went upstairs together, the colonel first with the lamp, the fat manager and I behind him. It was a labyrinth of an old house, with corridors, passages, narrow winding staircases, and little low doors, the thresholds of which were hollowed out by the generations who had crossed them. There were no carpets and no signs of any furniture above the ground floor, while the plaster was peeling off the walls, and the damp was breaking through in green, unhealthy blotches. I tried to put on as unconcerned an air as possible, but I had not forgotten the warnings of the lady, even though I disregarded them, and I kept a keen eye upon my two companions. Ferguson appeared to be a morose and silent man, but I could see from the little that he said that he was at least a fellow-countryman.
 
-_Colonel Lysander Stark_ stopped at last before a low door, which he unlocked. Within was a small, **square room**, in which the three of us could hardly get at one time. Ferguson remained outside, and the colonel ushered me in. <small>[emphasis added]</small>
+_Colonel Lysander Stark_ stopped at last before a low door, which he unlocked. Within was a small, **square room**, in which the three of us could hardly get at one time. Ferguson remained outside, and the colonel ushered me in. <sub>[emphasis added]</sub>
 
 'We are now,' said he, 'actually within the hydraulic press, and it would be a particularly unpleasant thing for us if anyone were to turn it on. The ceiling of this small chamber is really the end of the descending piston, and it comes down with the force of many tons upon this metal floor. There are small lateral columns of water outside which receive the force, and which transmit and multiply it in the manner which is familiar to you. The machine goes readily enough, but there is some stiffness in the working of it, and it has lost a little of its force. Perhaps you will have the goodness to look it over and to show us how we can set it right.'
 
@@ -77,7 +77,7 @@ From [The Adventure of the Engineer's Thumb][story] in [The Adventures of Sherlo
 
 #### Video Area
 
-<iframe width="600" height="370" src="http://www.youtube.com/embed/6ooInluKNbs?rel=0&hd=1&theme=light" frameborder="0" allowfullscreen></iframe>
+<iframe width="600" height="370" src="http://www.youtube.com/embed/6ooInluKNbs?rel=0&hd=1&theme=light&wmode=transparent" frameborder="0" allowfullscreen></iframe>
 
 This video is placed here to help with possible `z-index` issues as well as for possible video styling. Feel free to modify as needed, but this is the standard YouTube share at 600x370 with HD enabled.
 
